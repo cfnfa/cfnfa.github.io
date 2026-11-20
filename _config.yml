@@ -23,7 +23,7 @@ repository               : "cfnfa/cfnfa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Clara Fuertes"
   pronouns         : "she/her"  
   bio              : "Biomedical Engineer, machine learning and medical image enthusiast"
