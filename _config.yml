@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Clara's portforlio"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Clara Fuertes"
 description              : &description "Clara's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her"  
   bio              : "Biomedical Engineer, machine learning and medical image enthusiast"
   location         : "Spain/Switzerland"
-  employer         : ""
+  employer         : "Universidad Politécnica de Madrid"
   uri              : # URL
   email            : "clarafn@hotmail.es" 
 
