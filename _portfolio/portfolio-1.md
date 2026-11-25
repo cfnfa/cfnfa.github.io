@@ -1,6 +1,6 @@
 ---
 title: "HandVision"
-excerpt: "A sensory-substitution device for visually impaired indivduals<br/><img src='/images/500x300.png'>"
+excerpt: "A sensory-substitution device for visually impaired indivduals<br/><img src='/images/hand.png'>"
 collection: portfolio
 ---
 
